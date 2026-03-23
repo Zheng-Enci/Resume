@@ -61,7 +61,7 @@
 
 ## Project Experience
 
-### Student Management System | 2025.09 - 2025.12
+### Student Management System | 2025.09 - 2026.03
 
 **Project Background**: Developed an integrated student management system for Xiamen Institute of Technology AI Creation Workshop to address issues such as irregular student information management, lack of time-based attendance restrictions, and absence of data visualization.
 
@@ -73,6 +73,7 @@
 - **Performance optimization**: Optimized response time to **under 100ms** through Redis caching of attendance status; implemented on-demand component loading, **significantly reducing bundle size**
 - **User experience optimization**: Redesigned attendance correction process as step-by-step workflow, supporting Chinese date picker, large screen adaptation, dark mode
 - **System deployment**: Successfully deployed and launched, supporting multi-user concurrent access, **stable operation in production environment**
+- **March 2026 feature expansion**: Added invitation code management system, data download functionality, verification code system refactoring, **further enhancing system security**
 - **Project Link**: https://10257qh6684dd.vicp.fun/ | **Open Source Code**: GitHub/Gitee/GitCode (frontend open source)
 
 ---
