@@ -180,6 +180,9 @@
 
 ## Awards & Honors
 
+### Certifications
+- **2024.05** | **Industrial and Information Technology Talent Competency Certification** | Certification Direction: Industrial Internet Platform Development Engineer | Issuing Authority: Ministry of Industry and Information Technology
+
 ### Project Approval
 - **2025.09** | **National College Student Innovation and Entrepreneurship Training Program** Approval | Project No.: 202513115006 | Project Name: EduBot - Creator of New Educational Forms
 
