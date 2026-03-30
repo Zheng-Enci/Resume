@@ -6,18 +6,17 @@
 ## 项目结构
 
 ### 核心模块
-- **技术栈**：FastAPI + Flask + Python + USB Gadget HID
-- **核心功能**：鼠标控制API、键盘服务、USB HID设备配置
+- **技术栈**：FastAPI + Python + USB Gadget HID
+- **核心功能**：鼠标控制API、USB HID设备配置
 - **详细信息**：查看 [开发日志](2026/03/README.md)
 
 ## 核心功能
+- USB HID设备配置（内核检查、OTG模式切换、设备绑定等）
 - 鼠标任意方向移动（x、y坐标控制）
-- 键盘短按/长按按键
-- 字符串发送功能
 - 统一API响应格式
 
 ## 开发历程
-- **2026年3月**：项目初始化，实现鼠标API和键盘服务
+- **2026年3月**：USB HID设备配置和鼠标API开发
 
 ## 项目链接
 - **GitHub**: https://github.com/Zheng-Enci/mouse-and-keyboard-simulation
@@ -31,15 +30,9 @@
 
 ## 快速开始
 ```bash
-# 安装依赖
-python install_requirements.py
-
 # 配置HID设备
 sudo bash Note/LinYuDong/setup_hid_gadget.sh
 
 # 启动鼠标API
 cd services/mouse_api && sudo python3 mouse_api.py
-
-# 启动键盘服务
-cd services/keyboard_service && python3 keyboard_service.py
 ```
