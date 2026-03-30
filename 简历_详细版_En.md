@@ -203,8 +203,7 @@
 - **USB HID Configuration Documentation**: Wrote complete USB HID device configuration documentation, covering kernel check, OTG mode switching, device binding, etc.
 - **Mouse API Development**: Implemented FastAPI-based mouse control API, supporting x, y coordinate control
 - **Code Quality Optimization**: Refactored code structure, added type annotations, created unified response class
-- **Open Source Contribution**: Provided complete configuration documentation and API services
-- **Open Source Code**: GitHub/Gitee/GitCode
+- **Project Achievements**: Provided complete configuration documentation and API services
 
 ---
 
