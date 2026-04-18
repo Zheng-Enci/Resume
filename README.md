@@ -1,4 +1,23 @@
+## 📊 GitHub 统计
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zheng-Enci&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zheng-Enci&layout=compact&theme=radical" alt="Top Languages" height="165">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zheng-Enci&theme=radical" alt="GitHub Streak">
+</div>
+
+---
+
+</div>
+
+<div align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zheng-Enci/Zheng-Enci/master/dist/github-contribution-grid-snake.svg" width="100%">
+</div>
+
+---
 
 # 👋 Hi, I'm 郑恩赐 (Zheng Enci)
 
@@ -8,14 +27,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Zheng-Enci?style=social)](https://github.com/Zheng-Enci)
 
 📌 **多平台同步**: [GitHub](https://github.com/Zheng-Enci) | [Gitee](https://gitee.com/zheng-enci050704) | [GitCode](https://gitcode.com/ZhengEnCi)
-
-</div>
-
-<div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zheng-Enci/Zheng-Enci/master/dist/github-contribution-grid-snake.svg" width="100%">
-</div>
-
----
 
 ## 🚀 关于我
 
@@ -56,19 +67,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zheng-Enci&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zheng-Enci&layout=compact&theme=radical" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zheng-Enci&theme=radical" alt="GitHub Streak">
-</div>
 
 ---
 
