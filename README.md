@@ -1,13 +1,6 @@
 <table>
   <tr>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zheng-Enci/Zheng-Enci/master/dist/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zheng-Enci/Zheng-Enci/master/dist/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zheng-Enci/Zheng-Enci/master/dist/github-contribution-grid-snake.svg" >
-      </picture>
-    </td>
-    <td>
         <a href="https://versakit.github.io/Versakit/">
           <img src="./assets/Versakit.jpg" alt="Versakit" width="400px">
         </a>
