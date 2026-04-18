@@ -2,7 +2,7 @@
 
 **AI全栈应用开发**
 
-[![snake animation](https://raw.githubusercontent.com/Zheng-Enci/Zheng-Enci/master/dist/github-contribution-grid-snake.svg)](https://github.com/Zheng-Enci/Zheng-Enci)
+[![snake animation](https://raw.githubusercontent.com/Zheng-Enci/Zheng-Enci/output/github-contribution-grid-snake.svg)](https://github.com/Zheng-Enci/Zheng-Enci)
 
 ---
 
