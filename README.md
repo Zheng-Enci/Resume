@@ -1,14 +1,4 @@
-<table>
-  <tr>
-    <td>
-        <a href="https://versakit.github.io/Versakit/">
-          <img src="./assets/Versakit.jpg" alt="Versakit" width="400px">
-        </a>
-    </td>
-  </tr>
-</table>
-
-## <img src="./assets/cool.gif" alt="Profile Image" style="width:20px;height:20px"> Hi I am 郑恩赐 👋
+## Hi I am 郑恩赐 👋
 
 Here are some ideas to get you started:
 
