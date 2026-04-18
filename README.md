@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile.gif" alt="Profile" width="200px" style="border-radius: 50%;">
-
 # 👋 Hi, I'm 郑恩赐 (Zheng Enci)
 
 **AI全栈应用开发 | 软件工程本科生 | 寻找实习/工作机会**
@@ -13,13 +11,20 @@
 
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zheng-Enci/Zheng-Enci/master/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zheng-Enci/Zheng-Enci/master/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zheng-Enci/Zheng-Enci/master/dist/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zheng-Enci/Zheng-Enci/master/dist/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zheng-Enci/Zheng-Enci/master/dist/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zheng-Enci/Zheng-Enci/master/dist/github-contribution-grid-snake.svg" width="100%">
+      </picture>
+    </td>
+    <td width="40%" align="center">
+      <img src="./assets/profile.gif" alt="Profile" width="280px">
+    </td>
+  </tr>
+</table>
 
 ---
 
