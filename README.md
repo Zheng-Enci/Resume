@@ -1,6 +1,9 @@
 ## 📊 GitHub 统计
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zheng-Enci&theme=radical&locale=zh_Hans&card_width=650" alt="连续贡献" height="185">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zheng-Enci&show_icons=true&hide_rank=true&theme=radical&locale=cn&card_width=550" alt="GitHub 统计" height="185">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zheng-Enci&layout=compact&theme=radical&locale=cn&langs_count=20&card_width=400" alt="使用语言" height="185">
 </div>
 
